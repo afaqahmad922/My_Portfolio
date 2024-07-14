@@ -147,7 +147,7 @@ class _ThirdViewState extends State<ThirdView> {
                   children: [
                     Text("☏ Contact Me", style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold),),
                     Text("📧 Email me: afaqahmad922@gmail.com", style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold, fontFamily: 'Skyler'),),
-                    Text("📱 Call me: +923168050156", style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold, fontFamily: 'Skyler'),),
+                    Text("📱 Call me: +923000000000", style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold, fontFamily: 'Skyler'),),
                     Text("🔗 Linkedin: afaqahmad922", style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold, fontFamily: 'Skyler'),),
                   ],
                 )
